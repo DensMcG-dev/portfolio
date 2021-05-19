@@ -1,0 +1,48 @@
+.align-center {
+  text-align: center
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: aqua;
+}
+
+a:active {
+  color: orange;
+}
+
+body {
+  background: rgb(192, 219, 231);
+}
+
+header {
+  border-radius: 15%;
+  color: #c9c7be;
+  font-family : cursive;
+  background: rgb(2, 50, 70);
+}
+
+hr {
+  height: 1px;
+}
+
+main {
+  background: rgb(192, 219, 231);
+}
+
+img {
+  width: 350px;
+  display: block;
+  margin: 7px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10;
+}
+
