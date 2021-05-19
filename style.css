@@ -40,6 +40,11 @@ main {
   background: rgb(197, 202, 204);
 }
 
+p {
+  font-size: 14px;
+}
+/*establishes font size for paragraphs*/
+
 img {
   width: 350px;
   display: block;
