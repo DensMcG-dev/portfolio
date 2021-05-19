@@ -1,6 +1,7 @@
 .align-center {
   text-align: center
 }
+/*uses class as a means of aligning text to center*/
 
 a:link {
   color: blue;
@@ -17,10 +18,12 @@ a:hover {
 a:active {
   color: orange;
 }
+/*pseudo-classes for styling of links*/
 
 body {
   background: rgb(128, 147, 155);
 }
+/*site background color*/
 
 header {
   border-radius: 15%;
@@ -28,6 +31,7 @@ header {
   font-family : cursive;
   background: rgb(2, 50, 70);
 }
+/*header styling*/
 
 hr {
   height: 1px;
@@ -45,3 +49,4 @@ img {
   margin-right: auto;
   padding: 10;
 }
+/*image styling*/
