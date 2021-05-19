@@ -1,6 +1,7 @@
 .align-center {
   text-align: center
 }
+/*uses class to center text*/
 
 a:link {
   color: blue;
@@ -17,10 +18,12 @@ a:hover {
 a:active {
   color: orange;
 }
+/*pesudo-classes used to style links*/
 
 body {
   background: rgb(197, 202, 204);
 }
+/*page background color*/
 
 header {
   border-radius: 15%;
@@ -28,7 +31,7 @@ header {
   font-family : cursive;
   background: rgb(2, 50, 70);
 }
-
+/*styles header*/
 hr {
   height: 1px;
 }
@@ -45,4 +48,4 @@ img {
   margin-right: auto;
   padding: 10;
 }
-
+/*styles images*/
