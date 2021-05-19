@@ -43,7 +43,16 @@ main {
 p {
   font-size: 20px;
 }
-/*establishes font size for paragraphs*/
+
+ul {
+  font-size: 20px;
+}
+
+ol {
+  font-size: 20px;
+}
+
+/*establishes font sizes*/
 
 img {
   width: 350px;
